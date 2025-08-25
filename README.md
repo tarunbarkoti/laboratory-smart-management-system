@@ -1,0 +1,1 @@
+# laboratory-smart-management-system
